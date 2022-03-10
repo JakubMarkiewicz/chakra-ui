@@ -1,5 +1,13 @@
 # Change Log
 
+## 1.8.7
+
+### Patch Changes
+
+- Updated dependencies
+  [[`63c2bc070`](https://github.com/chakra-ui/chakra-ui/commit/63c2bc070303ecdf4947c896b85bf602381040a4)]:
+  - @chakra-ui/tabs@1.6.9
+
 ## 1.8.6
 
 ### Patch Changes
